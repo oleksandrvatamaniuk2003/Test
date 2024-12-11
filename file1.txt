@@ -1,2 +1,1 @@
-This is the first file
-This is an added line
+Commit 1
